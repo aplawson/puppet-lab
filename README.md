@@ -3,9 +3,11 @@ This script is written to install and configure a stand alone puppet environment
 
 Place all manifests under `/etc/puppet/manifests/` with `.pp` extension then run `$ puppet apply /etc/puppet/manifests/$manifest_name.pp`
 
-## TO GET IT
+##INSTALLATION PROCESS
+
+1. GRAB THE LATEST VERSION OF THE BUILD SCRIPT
 `$ git clone https://github.com/aplawson/puppet-lab.git`
-## TO INSTALL IT
+2. BUILD THE LAB
 `$ cd puppet-lab; bash puppet_env.sh`
 
 Happy Puppeting!
