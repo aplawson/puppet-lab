@@ -5,9 +5,9 @@ Place all manifests under `/etc/puppet/manifests/` with `.pp` extension then run
 
 ##INSTALLATION PROCESS
 
-1. GRAB THE LATEST VERSION OF THE BUILD SCRIPT
+####GRAB THE LATEST VERSION OF THE BUILD SCRIPT
 `$ git clone https://github.com/aplawson/puppet-lab.git`
-2. BUILD THE LAB
+####BUILD THE LAB
 `$ cd puppet-lab; bash puppet_env.sh`
 
 Happy Puppeting!
